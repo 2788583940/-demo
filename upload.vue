@@ -1,3 +1,8 @@
+<!-- 
+  传参  value: Array; 图片回显，传数组就行
+        limit: number; 限制上传图片数量
+        disabled：true||fasle; 是否禁止上传
+-->
 <template>
   <div class="component-upload-image">
     <el-upload
